@@ -1,4 +1,4 @@
-# Live Stream Name Tag Example
+# Live Stream Dancing Gif Example
 This repo is part of a series of code examples of how to develop immersive and interactive live streaming, augmented reality, and virtual reality apps with BingeWave. Please follow the installation instructions and read the tutorial for a more in-depth explanation.
 
 ## Installation
