@@ -20,5 +20,5 @@ The focus of this tutorial is how to put random dancing gif on-screen. This code
 
 ## Tutorial
 
-This code is accompanied by a tutorial that will further explain steps, which is available at: TBA
+This code is accompanied by a tutorial that will further explain steps, which is available at: [Implementing Dancing Gifs Into Live Streams With The Giphy API](https://medium.com/bingewave/develop-a-live-streaming-app-with-dancing-gifs-and-giphy-api-tutorial-52883f2ff26c)
 
